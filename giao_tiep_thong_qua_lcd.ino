@@ -21,3 +21,5 @@ void loop()
   lcd.clear();//Xóa màn hình
   delay(300);
 }
+
+//NGUYỄN DUY TRÁNG

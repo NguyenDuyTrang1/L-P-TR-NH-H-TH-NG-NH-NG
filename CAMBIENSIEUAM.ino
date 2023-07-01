@@ -1,6 +1,6 @@
-#define trigPin 3
-#define echoPin 2
-#define greenLed 10
+#define trigPin 3 // khai báo chân Trig
+#define echoPin 2 // khai báo chân Echo
+#define greenLed 10 //khai báo chân đèn led
 #define yellowLed 9
 #define redLed 8
 

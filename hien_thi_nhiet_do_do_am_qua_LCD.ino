@@ -25,3 +25,5 @@ void loop() {
   lcd.print(h);
   
 }
+
+//NGUYỄN DUY TRÁNG
